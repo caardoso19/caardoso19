@@ -16,7 +16,7 @@
 </picture>
 
 <picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=5&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caardoso19&layout=compact&langs_count=5&theme=dark" />
 </picture>
 </div>
 
