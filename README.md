@@ -22,9 +22,9 @@ Apaixonado por tecnologia, gosto de transformar ideias em soluções práticas e
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caardoso19&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caardoso19&layout=compact&langs_count=5&theme=dark" />
+<div style="display: inline-flex">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caardoso19&show_icons=true&theme=dracula" />
+  <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caardoso19&layout=compact&langs_count=5&theme=dark" />
 </div>
 
 ---
