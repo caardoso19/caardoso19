@@ -46,9 +46,13 @@ Desenvolvedor de Software Senior na **Tata Consultancy Services (TCS)** com sól
 
 ### 📊 GitHub Stats
 
-<div style="display: inline-flex">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caardoso19&show_icons=true&theme=dracula" />
-  <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caardoso19&layout=compact&langs_count=5&theme=dark" />
+<div align="left">
+  <a href="https://github.com/caardoso19">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caardoso19&show_icons=true&theme=dracula&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/caardoso19">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caardoso19&layout=compact&langs_count=5&theme=dracula" />
+  </a>
 </div>
 
 ---
