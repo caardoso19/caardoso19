@@ -1,22 +1,46 @@
-### Olá! Eu sou o Marcelo Cardoso 👋
+# Olá! Eu sou o Marcelo Cardoso 👋
 
-Sou desenvolvedor com experiência em **.NET**, **AngularJS** e **SQL Server**. Atualmente estou expandindo meus conhecimentos em **Python** e **Inteligência Artificial**.
+### 👨‍💻 Senior Software Developer | AWS Certified Cloud Practitioner ☁️
 
-Apaixonado por tecnologia, gosto de transformar ideias em soluções práticas e eficientes.
+Desenvolvedor de Software Senior na **Tata Consultancy Services (TCS)** com sólida experiência no setor financeiro. Especialista em arquitetura de **microsserviços**, construção de **APIs RESTful**, **automação de processos** e **micro frontends**.
 
 ---
 
-### 🚀 Tecnologias que utilizo
+### 🚀 Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="cardoso-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="cardoso-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="cardoso-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="cardoso-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="cardoso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="cardoso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="cardoso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-</div>
+- 🏢 **Atuação Profissional:** Senior Software Developer na **Tata Consultancy Services**, atuando em projetos para grandes instituições financeiras.
+- 🏗️ **Arquitetura & Backend:** Desenvolvimento de microsserviços autônomos, escaláveis e de alta performance com **.NET / .NET Core (C#)**, **ASP.NET Web API**, **Dapper**, **Entity Framework** e **SQL Server**.
+- 💻 **Frontend & UI/UX:** Desenvolvimento de aplicações web com **Angular**, **NgRx**, **Micro Frontends**, **HTML5/CSS3** e prototipação no **Figma**.
+- ⚙️ **Automação, Dados & Testes:** Criação de web crawlers, testes unitários com **xUnit**, cenários de teste com **Postman/Insomnia** e preparação/análise de dados com **Alteryx**.
+- ☁️ **Certificação:** AWS Certified Cloud Practitioner.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### **Backend & Linguagens**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### **Frontend & UI/UX**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+#### **Cloud, Banco de Dados & Ferramentas**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5851DB?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
@@ -32,18 +56,10 @@ Apaixonado por tecnologia, gosto de transformar ideias em soluções práticas e
 ### 📫 Contato
 
 <div>
-  <a href="https://instagram.com/m.cardoso19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	 
-  <a href = "mailto:cardosomarcelo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/csantosmarcelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/csantosmarcelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:cardosomarcelo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/m.cardoso19" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
----
-
-### ⚡ Curiosidades
-
-- 🎯 Em busca de desafios que envolvam IA e automações inteligentes.
-- 🤖 Criando um portfólio de projetos com **Python** aplicados à vida real.
-- 💬 Gosto de compartilhar conhecimento e aprender com a comunidade.
 
 ---
 
